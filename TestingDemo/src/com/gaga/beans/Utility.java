@@ -8,4 +8,15 @@ public class Utility {
 	{
 		return new Date();
 	}
-}// ctrl ++
+
+
+	public void m1() {
+		
+		System.out.println("m1().... abcd");
+		
+	}	
+	
+	
+	
+	
+}
